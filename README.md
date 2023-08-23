@@ -1,2 +1,2 @@
 # Farmer_simulation
-A small simulation of a farmer planting and selling crops at a market. Farmer's world understanding is safed in a neural network.
+A small simulation of a farmer planting and selling crops at a market. Farmer's world understanding is safed in a neural network. The farmer analyzes the market behavior via a Neural Network, then makes decision based on a pre-defined strategy. The aim of the farmer is maximizing profit. The market demand is modeled via a demand curve. Can be extended to include random harvest yield, random price curves etc. . Work in progress.
